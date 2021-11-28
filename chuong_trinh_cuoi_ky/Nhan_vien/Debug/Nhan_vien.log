@@ -1,0 +1,6 @@
+﻿  Nhan_vien.cpp
+D:\code OOP\Nhan_vien\Nhan_vien\Nhan_vien.cpp(81,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\code OOP\Nhan_vien\Nhan_vien\Nhan_vien.cpp(116,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\code OOP\Nhan_vien\Nhan_vien\Nhan_vien.cpp(148,27): warning C4018: '<': signed/unsigned mismatch
+D:\code OOP\Nhan_vien\Nhan_vien\Nhan_vien.cpp(158,27): warning C4018: '<': signed/unsigned mismatch
+  Nhan_vien.vcxproj -> D:\code OOP\Nhan_vien\Debug\Nhan_vien.exe
