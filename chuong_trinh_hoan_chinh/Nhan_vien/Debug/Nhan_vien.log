@@ -1,0 +1,9 @@
+﻿  Nhan_vien.cpp
+D:\code OOP\Nhan_vien\Nhan_vien\Nhan_vien.cpp(115,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\code OOP\Nhan_vien\Nhan_vien\Nhan_vien.cpp(178,30): warning C4018: '>': signed/unsigned mismatch
+D:\code OOP\Nhan_vien\Nhan_vien\Nhan_vien.cpp(180,31): warning C4018: '>': signed/unsigned mismatch
+D:\code OOP\Nhan_vien\Nhan_vien\Nhan_vien.cpp(196,30): warning C4018: '>': signed/unsigned mismatch
+D:\code OOP\Nhan_vien\Nhan_vien\Nhan_vien.cpp(198,31): warning C4018: '>': signed/unsigned mismatch
+D:\code OOP\Nhan_vien\Nhan_vien\Nhan_vien.cpp(209,31): warning C4018: '<': signed/unsigned mismatch
+D:\code OOP\Nhan_vien\Nhan_vien\Nhan_vien.cpp(220,27): warning C4018: '<': signed/unsigned mismatch
+  Nhan_vien.vcxproj -> D:\code OOP\Nhan_vien\Debug\Nhan_vien.exe
